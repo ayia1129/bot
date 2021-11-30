@@ -30,3 +30,7 @@ To achieve the fastest performance, **MDT-CLI** also interacts with smart contra
 [![Fantom Opera](https://raw.githubusercontent.com/mdtProtocol/bot/master/assets/ftm.png)](https://fantom.foundation/)
 [![KCC Mainnet](https://raw.githubusercontent.com/mdtProtocol/bot/master/assets/kcs.png)](https://www.kcc.io/)
 [![Avalanche Mainnet](https://raw.githubusercontent.com/mdtProtocol/bot/master/assets/avax.png)](https://www.avax.network/)
+
+From version 3, **MDT-CLI** supports multiple popular EVM Blockchain network.
+
+![Network Selection](https://raw.githubusercontent.com/mdtProtocol/bot/master/assets/network_selection.jpg)
