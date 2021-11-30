@@ -34,3 +34,11 @@ To achieve the fastest performance, **MDT-CLI** also interacts with smart contra
 From version 3, **MDT-CLI** supports multiple popular EVM Blockchain network.
 
 ![Network Selection](https://raw.githubusercontent.com/mdtProtocol/bot/master/assets/network_selection.jpg)
+
+## Useful Links
+
+- Main Website: https://mdt.gg/
+- Installation: https://mdt.gg/cli/installation
+- MDT-CLI Feature: https://mdt.gg/cli/overview
+- Configurations: https://mdt.gg/cli/configuration/configs
+- FAQs & Tips: https://mdt.gg/protocol/faqs
